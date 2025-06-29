@@ -94,6 +94,9 @@ function App() {
 
   return (
     <div className="app">
+      <div className="demo-banner">
+        🚀 <strong>DEMO VERSION</strong> - This app generates sample mission statements for demonstration purposes
+      </div>
       <header className="app-header">
         <h1>Mission Clarity Generator</h1>
       </header>
