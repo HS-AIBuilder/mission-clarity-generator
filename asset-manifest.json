@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mission-clarity-generator/static/css/main.64bfa068.css",
+    "main.js": "/mission-clarity-generator/static/js/main.77298866.js",
+    "index.html": "/mission-clarity-generator/index.html",
+    "main.64bfa068.css.map": "/mission-clarity-generator/static/css/main.64bfa068.css.map",
+    "main.77298866.js.map": "/mission-clarity-generator/static/js/main.77298866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64bfa068.css",
+    "static/js/main.77298866.js"
+  ]
+}
